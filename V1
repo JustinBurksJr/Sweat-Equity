@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sweat Equity</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+        header {
+            background-color: #000;
+            color: #fff;
+            padding: 20px;
+            text-align: center;
+        }
+        main {
+            max-width: 800px;
+            margin: auto;
+            padding: 20px;
+            background: white;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+        }
+        h1, h2 {
+            color: #000;
+        }
+        p {
+            line-height: 1.6;
+        }
+        .contact {
+            margin-top: 20px;
+            padding: 15px;
+            background: #f8f8f8;
+            border: 1px solid #ddd;
+        }
+        footer {
+            text-align: center;
+            padding: 15px;
+            background-color: #000;
+            color: white;
+            margin-top: 30px;
+        }
+        a {
+            color: #000;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Sweat Equity</h1>
+        <p>Investing in Health, Fitness & Community Growth</p>
+    </header>
+    <main>
+        <h2>About Us</h2>
+        <p>Sweat Equity is dedicated to acquiring and growing fitness, wellness, and lifestyle businesses. We focus on creating value through strategic operations, strong community engagement, and sustainable growth practices.</p>
+
+        <h2>Our Approach</h2>
+        <p>We partner with business owners to expand reach, improve profitability, and strengthen brand presence. Whether it’s scaling local gyms, launching new fitness concepts, or enhancing digital presence, Sweat Equity brings the resources, strategy, and passion to make it happen.</p>
+
+        <h2>What We Look For</h2>
+        <ul>
+            <li>Profitable or high-potential fitness & wellness businesses</li>
+            <li>Strong community presence</li>
+            <li>Opportunities for growth and brand development</li>
+        </ul>
+
+        <div class="contact">
+            <h2>Contact Us</h2>
+            <p>Email: <a href="mailto:info@sweatequity.com">info@sweatequity.com</a></p>
+            <p>Phone: (555) 555-5555</p>
+        </div>
+    </main>
+    <footer>
+        <p>&copy; 2025 Sweat Equity. All rights reserved.</p>
+    </footer>
+</body>
+</html>
